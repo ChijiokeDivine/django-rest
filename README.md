@@ -7,7 +7,7 @@ Here’s a common README template for a Django REST Framework project. You can c
 
 ## Overview
 
-This is a Django REST Framework project designed to provide a robust API for [describe the purpose of your project, e.g., managing user data, handling e-commerce transactions, etc.]. The project is built using Django and leverages the powerful features of Django REST Framework to create a RESTful API.
+This is a Django REST Framework project designed to provide a robust API for [managing user data, handling e-commerce transactions, etc.]. The project is built using Django and leverages the powerful features of Django REST Framework to create a RESTful API.
 
 ## Features
 
