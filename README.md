@@ -118,7 +118,7 @@ This project is licensed under the [MIT License](LICENSE).
 For inquiries or feedback, please reach out to:
 
 - **Email**: tekdiverse@gmail.com 
-- **GitHub**: [yourusername](https://github.com/ChijiokeDivine)
+- **GitHub**: [ChijiokeDivine](https://github.com/ChijiokeDivine)
 
 ---
 
